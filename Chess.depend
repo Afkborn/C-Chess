@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1612364214 source:c:\users\berka\onedrive\masaüstü\itü chess\ituchess\chess.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1612383129 source:c:\users\büşra\desktop\ituchess\chess.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1612426887 source:c:\users\bilgehan\desktop\ituchess\chess.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
